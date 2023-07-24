@@ -6,7 +6,6 @@
 </div>
 <h2> Hey there! I'm Mohamed Nagy</h2>
 <img width="200" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-
 <h3 align="center">Undergraduate of Electronics and Communication Engineering , Alexandria University Eager about Embedded Systems and Robotics</h3>
 ### <p align="center">Visitor counter<p>
 <p align="center"> 
