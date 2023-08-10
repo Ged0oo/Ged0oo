@@ -53,7 +53,9 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  # My Status
+
+
+# My Status
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ged0oo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
