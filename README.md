@@ -61,6 +61,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # My Stats
 
 
