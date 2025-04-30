@@ -11,6 +11,7 @@
 
 <h3 align="center">Undergraduate of Electronics and Communication Engineering , Alexandria University Eager about Embedded Systems and Robotics</h3>
 
+
 ### <p align="center">Visitor counter<p>
 
 <p align="center"> 
@@ -67,7 +68,7 @@
 
 # My Contributions
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ged0oo&theme=transparent&border_radius=12&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ged0oo)](https://git.io/streak-stats)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
