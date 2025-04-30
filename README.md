@@ -68,7 +68,7 @@
 
 # My Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ged0oo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ged0oo)](https://git.io/streak-stats)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
