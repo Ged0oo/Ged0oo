@@ -143,7 +143,7 @@
 <br/>
 
 <div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
+  <img height="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
 
