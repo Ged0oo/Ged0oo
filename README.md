@@ -133,7 +133,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ged0oo" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ged0oo" alt="GitHub Streak" width="800" height="200" />
   </a>
 </p>
 
