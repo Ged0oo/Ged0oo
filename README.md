@@ -129,22 +129,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-<h1 align="center">My Status</h1>
-
-<div align="center">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Ged0oo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
-</div>
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 <h1 align="center">My Contributions</h1>
 
 <p align="center">
