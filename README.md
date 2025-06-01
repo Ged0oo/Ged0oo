@@ -134,19 +134,29 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# My Status
+<h1 align="center">My Status</h1>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ged0oo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=Ged0oo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ged0oo&layout=compact&langs_count=20&theme=transparent"/>
 </div>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# My Contributions
+<h1 align="center">My Contributions</h1>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ged0oo)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=ged0oo" alt="GitHub Streak" />
+  </a>
+</p>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
