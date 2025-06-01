@@ -108,11 +108,6 @@
   <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Ged0oo&theme=onestar&row=1&column=8"/>
   </p>
-
-  <!-- Languages -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ged0oo&layout=compact&langs_count=10&theme=codeSTACKr"/>
-  </p>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
