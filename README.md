@@ -11,14 +11,6 @@
 
 <h3 align="center"> Software Engineer </h3>
 
-
-### <p align="center">Visitor counter<p>
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Ged0oo/count.svg" />
-</p>
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3 align="center">Connect with me:</h3>
