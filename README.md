@@ -11,8 +11,6 @@
 
 <h3 align="center"> Software Engineer </h3>
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mohamednagyofficial" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
