@@ -128,13 +128,4 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center">
-<a href="https://github.com/ged0oo">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ged0oo&theme=city_lights" height="208em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ged0oo&theme=dracula" height="208em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ged0oo&theme=city_lights" height="210em" />
-</div>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
