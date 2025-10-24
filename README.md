@@ -88,9 +88,21 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<h3 align="left">🏆 GitHub Trophies:</h3>
+
+#### `GitHub Trophies`
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ged0oo&theme=onestar&row=1&column=8"/>
+  
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=Ged0oo&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+  </div>
+<br>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ged0oo&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=Ged0oo&theme=highcontrast" height="125"/>
+  </p>
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
   </p>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
