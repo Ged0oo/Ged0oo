@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h2> Hey there! I'm Mohamed Nagy</h2>
+<h2> I'm Mohamed Nagy</h2>
 
 <img width="200" align="right" alt="Github" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
