@@ -92,13 +92,13 @@
 #### `GitHub Trophies`
   <p align="center">
   
-  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=Ged0oo&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
+  ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=Ged0oo&theme=onestar&no-bg=true&no-frame=true&row=1&column=9)
   </div>
 <br>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ged0oo&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=Ged0oo&theme=highcontrast" height="125"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ged0oo&layout=compact&langs_count=10&theme=highcontrast" height="150"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=Ged0oo&theme=highcontrast" height="150"/>
   </p>
 
   <p align="center">
@@ -111,17 +111,6 @@
   # 
   <a align="center" href=#><img src="contributions.svg"></a>
   #
-
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ged0oo/ged0oo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ged0oo/ged0oo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ged0oo/ged0oo/output/pacman-contribution-graph.svg">
-</picture>
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
