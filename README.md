@@ -99,7 +99,7 @@
 
 
   # 
-  <a href=#><img src="contributions.svg"></a>
+  <a align="center" href=#><img src="contributions.svg"></a>
   #
 
 
