@@ -100,10 +100,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ged0oo&layout=compact&langs_count=10&theme=highcontrast" height="150"/> &nbsp;
     <img src="https://streak-stats.demolab.com/?user=Ged0oo&theme=highcontrast" height="150"/>
   </p>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </p>
   
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
