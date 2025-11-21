@@ -20,7 +20,7 @@
   <a href="mailto:mohmmednagy@gmail.com" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="email" height="30" width="30" /></a>
   <a href="https://fb.com/official.mohamed.nagy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/mohmmednagy2020" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank2020" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/ged0oo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/mnagy156" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
